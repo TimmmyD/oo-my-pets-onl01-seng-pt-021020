@@ -1,1 +1,1 @@
-require 'pry'
+require 'pry'require_relative “../lib/cat.rb”
